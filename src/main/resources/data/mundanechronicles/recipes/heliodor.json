@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "mundanechronicles:raw_heliodor"
+    },
+    "X": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    "X#"
+  ],
+  "result": {
+    "item": "mundanechronicles:heliodor"
+  }
+}

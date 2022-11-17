@@ -1,11 +1,38 @@
 {
+
   "item.mundanechronicles.zircon": "Zircon",
   "item.mundanechronicles.raw_zircon": "Raw Zircon",
+  "item.mundanechronicles.black_opal": "Black Opal",
+  "item.mundanechronicles.chocolate_diamond": "Chocolate Diamond",
+  "item.mundanechronicles.dark_chocolate_diamond": "Dark Chocolate Diamond",
+  "item.mundanechronicles.dioptase": "Dioptase",
+  "item.mundanechronicles.kunzite": "Kunzite",
+  "item.mundanechronicles.raw_kunzite": "Raw Kunzite",
+  "item.mundanechronicles.topaz": "Topaz",
+  "item.mundanechronicles.moonstone": "Moonstone",
+  "item.mundanechronicles.selenite": "Selenite",
+  "item.mundanechronicles.ruby": "Ruby",
+  "item.mundanechronicles.heliodor": "Heliodor",
+  "item.mundanechronicles.raw_heliodor": "Raw Heliodor",
+  "item.mundanechronicles.jade": "Jade",
+  "item.mundanechronicles.raw_jade": "Raw Jade",
+  "item.mundanechronicles.opal": "Opal",
+  "item.mundanechronicles.fluorite": "Fluorite",
+  "item.mundanechronicles.rainbow_fluorite": "Rainbow Fluorite",
+  "item.mundanechronicles.aquamarine": "Aquamarine",
+  "item.mundanechronicles.sapphire": "Sapphire",
+  "item.mundanechronicles.tanzanite": "Tanzanite",
+  "item.mundanechronicles.jet": "Jet",
+  "item.mundanechronicles.raw_jet": "Raw Jet",
+  "item.mundanechronicles.tourmaline": "Tourmaline",
+  "item.mundanechronicles.fire_opal": "Fire Opal",
 
 
   "block.mundanechronicles.zircon_block": "Block of Zircon",
   "block.mundanechronicles.zircon_ore": "Zircon Ore",
   "block.mundanechronicles.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.mundanechronicles.selenite_block": "Block of Selenite",
+  "block.mundanechronicles.selenite_ore": "Selenite Ore",
 
 
   "itemGroup.mundanechroniclestab": "Mundane Chronicles"

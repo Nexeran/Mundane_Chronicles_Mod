@@ -8,7 +8,7 @@ public class ModCreativeModeTab {
         @Override
         public ItemStack makeIcon() {
             // Sets image of tab in game
-            return new ItemStack(ModItems.ZIRCON.get());
+            return new ItemStack(ModItems.BLACK_OPAL.get());
         }
     };
 }

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "kunzite",
+  "ingredient": {
+    "item": "mundanechronicles:kunzite_ore"
+  },
+  "result": "mundanechronicles:raw_kunzite"
+}

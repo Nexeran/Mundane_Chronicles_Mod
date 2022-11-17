@@ -35,6 +35,16 @@ public class ModBlocks {
                     .strength(6f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
 
+    //Selenite Block
+    public static final RegistryObject<Block> SELENITE_BLOCK = registerBlock("selenite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    //Selenite Ore Block
+    public static final RegistryObject<Block> SELENITE_ORE = registerBlock("selenite_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+
 
 
 
