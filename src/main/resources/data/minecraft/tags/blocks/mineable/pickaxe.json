@@ -1,10 +1,8 @@
 {
   "replace": false,
   "values": [
-    "zirconmod:zircon_ore",
-    "zirconmod:zircon_block",
-    "zirconmod:deepslate_zircon_ore",
-    "zirconmod:netherrack_zircon_ore",
-    "zirconmod:endstone_zircon_ore"
+    "mundanechronicles:zircon_ore",
+    "mundanechronicles:zircon_block",
+    "mundanechronicles:deepslate_zircon_ore"
   ]
 }

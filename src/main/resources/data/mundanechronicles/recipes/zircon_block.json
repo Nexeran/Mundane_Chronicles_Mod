@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mundanechronicles:zircon"
+    }
+  },
+  "result": {
+    "item": "mundanechronicles:zircon_block"
+  }
+}
