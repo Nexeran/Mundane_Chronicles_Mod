@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mundanechronicles:moonstone"
+    }
+  },
+  "result": {
+    "item": "mundanechronicles:moonstone_block"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "mundanechronicles:block/selenite_ore"
+    "all": "mundanechronicles:block/moonstone_ore"
   }
 }

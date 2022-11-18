@@ -3,6 +3,10 @@
   "values": [
     "mundanechronicles:zircon_ore",
     "mundanechronicles:zircon_block",
-    "mundanechronicles:deepslate_zircon_ore"
+    "mundanechronicles:deepslate_zircon_ore",
+    "mundanechronicles:selenite_ore",
+    "mundanechronicles:selenite_block",
+    "mundanechronicles:moonstone_ore",
+    "mundanechronicles:moonstone_block"
   ]
 }

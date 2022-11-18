@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-
+    "mundanechronicles:zircon_block",
+    "mundanechronicles:selenite_ore",
+    "mundanechronicles:selenite_block",
+    "mundanechronicles:moonstone_ore",
+    "mundanechronicles:moonstone_block"
   ]
 }
