@@ -34,6 +34,11 @@ public class ModBlocks {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Deepslate Zircon Ore
+    public static final RegistryObject<Block> DEEPSLATE_ZIRCON_ORE = registerBlock("deepslate_zircon_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
     // Selenite Block
     public static final RegistryObject<Block> SELENITE_BLOCK = registerBlock("selenite_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
