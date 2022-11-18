@@ -34,7 +34,6 @@ public class ModBlocks {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
-
     // Selenite Block
     public static final RegistryObject<Block> SELENITE_BLOCK = registerBlock("selenite_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
@@ -44,7 +43,6 @@ public class ModBlocks {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
-
     // Moonstone Block
     public static final RegistryObject<Block> MOONSTONE_BLOCK = registerBlock("moonstone_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
@@ -68,12 +66,9 @@ public class ModBlocks {
     }
 
     private static <T extends Block> RegistryObject<Item> registerBlockItem(String name, RegistryObject<T> block, CreativeModeTab tab) {
-
         return ModItems.ITEMS.register(name, (() -> new BlockItem(block.get(), new Item.Properties().tab(tab))));
     }
     //Block helpers End
 
-    public static void register(IEventBus eventBus) {
-        BLOCKS.register(eventBus);
-    }
+    public static void register(IEventBus eventBus) { BLOCKS.register(eventBus); }
 }
