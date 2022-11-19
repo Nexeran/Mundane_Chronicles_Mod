@@ -98,6 +98,9 @@ public class ModItems {
     public static final RegistryObject<Item> TANZANITE = ITEMS.register("tanzanite",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MUNDANE_CHRONICLES_TAB)));
 
+    // Raw Tanzanite
+    public static final RegistryObject<Item> RAW_TANZANITE = ITEMS.register("raw_tanzanite",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MUNDANE_CHRONICLES_TAB)));
     // Jet
     public static final RegistryObject<Item> JET = ITEMS.register("jet",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MUNDANE_CHRONICLES_TAB)));

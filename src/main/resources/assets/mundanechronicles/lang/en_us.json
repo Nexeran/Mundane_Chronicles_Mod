@@ -21,6 +21,7 @@
   "item.mundanechronicles.aquamarine": "Aquamarine",
   "item.mundanechronicles.sapphire": "Sapphire",
   "item.mundanechronicles.tanzanite": "Tanzanite",
+  "item.mundanechronicles.raw_tanzanite": "Raw Tanzanite",
   "item.mundanechronicles.jet": "Jet",
   "item.mundanechronicles.raw_jet": "Raw Jet",
   "item.mundanechronicles.tourmaline": "Tourmaline",
@@ -34,6 +35,14 @@
   "block.mundanechronicles.selenite_ore": "Selenite Ore",
   "block.mundanechronicles.moonstone_block": "Block of Moonstone",
   "block.mundanechronicles.moonstone_ore": "Moonstone Ore",
+  "block.mundanechronicles.kunzite_block": "Block of Kunzite",
+  "block.mundanechronicles.kunzite_ore": "Kunzite Ore",
+  "block.mundanechronicles.chocolate_diamond_ore": "Chocolate Diamond Ore",
+  "block.mundanechronicles.chocolate_diamond_block": "Block of Chocolate",
+  "block.mundanechronicles.dark_chocolate_diamond_block": "Block of Dark Chocolate",
+  "block.mundanechronicles.fluorite_ore": "Fluorite Ore",
+  "block.mundanechronicles.fluorite_block": "Block of Fluorite",
+  "block.mundanechronicles.rainbow_fluorite_block": "Block of Rainbow Fluorite",
 
 
   "itemGroup.mundanechroniclestab": "Mundane Chronicles"

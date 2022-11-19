@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mundanechronicles:item/a_rawore_placeholder"
+    "layer0": "mundanechronicles:item/raw_jade"
   }
 }

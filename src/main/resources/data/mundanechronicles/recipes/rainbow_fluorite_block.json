@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mundanechronicles:rainbow_fluorite"
+    }
+  },
+  "result": {
+    "item": "mundanechronicles:rainbow_fluorite_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mundanechronicles:dark_chocolate_diamond_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "mundanechronicles:dark_chocolate_diamond"
+  }
+}

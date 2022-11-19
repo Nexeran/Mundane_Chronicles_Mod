@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "mundanechronicles:selenite_block"
+      "item": "mundanechronicles:fluorite_block"
     }
   ],
   "result": {
     "count": 9,
-    "item": "mundanechronicles:selenite"
+    "item": "mundanechronicles:fluorite"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mundanechronicles:dark_chocolate_diamond"
+    }
+  },
+  "result": {
+    "item": "mundanechronicles:dark_chocolate_diamond_block"
+  }
+}

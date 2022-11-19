@@ -29,7 +29,7 @@ public class ModBlocks {
     public static final RegistryObject<Block> ZIRCON_BLOCK = registerBlock("zircon_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
-    // Zircon Ore Block
+    // Zircon Ore
     public static final RegistryObject<Block> ZIRCON_ORE = registerBlock("zircon_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
@@ -43,7 +43,7 @@ public class ModBlocks {
     public static final RegistryObject<Block> SELENITE_BLOCK = registerBlock("selenite_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
-    // Selenite Ore Block
+    // Selenite Ore
     public static final RegistryObject<Block> SELENITE_ORE = registerBlock("selenite_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
@@ -52,12 +52,46 @@ public class ModBlocks {
     public static final RegistryObject<Block> MOONSTONE_BLOCK = registerBlock("moonstone_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
-    // Moonstone Ore Block
+    // Moonstone Ore
     public static final RegistryObject<Block> MOONSTONE_ORE = registerBlock("moonstone_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
-
+    // Kunzite Block
+    public static final RegistryObject<Block> KUNZITE_BLOCK = registerBlock("kunzite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Kunzite Ore
+    public static final RegistryObject<Block> KUNZITE_ORE = registerBlock("kunzite_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Chocolate Diamond Block
+    public static final RegistryObject<Block> CHOCOLATE_DIAMOND_BLOCK = registerBlock("chocolate_diamond_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Chocolate Diamond Ore
+    public static final RegistryObject<Block> CHOCOLATE_DIAMOND_ORE = registerBlock("chocolate_diamond_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Dark Chocolate Diamond Block
+    public static final RegistryObject<Block> DARK_CHOCOLATE_DIAMOND_BLOCK = registerBlock("dark_chocolate_diamond_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Fluorite Ore
+    public static final RegistryObject<Block> FLUORITE_ORE = registerBlock("fluorite_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Fluorite Block
+    public static final RegistryObject<Block> FLUORITE_BLOCK = registerBlock("fluorite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
+    // Rainbow Fluorite Block
+    public static final RegistryObject<Block> RAINBOW_FLUORITE_BLOCK = registerBlock("rainbow_fluorite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.MUNDANE_CHRONICLES_TAB);
 
 
 

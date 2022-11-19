@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mundanechronicles:item/a_gem_placeholder"
+    "layer0": "mundanechronicles:item/tourmaline"
   }
 }
