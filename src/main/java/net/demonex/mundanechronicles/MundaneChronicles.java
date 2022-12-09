@@ -3,6 +3,8 @@ package net.demonex.mundanechronicles;
 import com.mojang.logging.LogUtils;
 import net.demonex.mundanechronicles.block.ModBlocks;
 import net.demonex.mundanechronicles.item.ModItems;
+import net.demonex.mundanechronicles.world.feature.ModConfiguredFeatures;
+import net.demonex.mundanechronicles.world.feature.ModPlacedFeatures;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -24,6 +26,10 @@ public class MundaneChronicles {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+
+        ModConfiguredFeatures.register(modEventBus);
+        ModPlacedFeatures.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
